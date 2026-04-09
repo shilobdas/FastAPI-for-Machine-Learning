@@ -78,5 +78,85 @@
         "weight": 95,
         "bmi": 31.02,
         "verdict": "Obese"
+    },
+    "P009": {
+        "name": "Anjali Desai",
+        "city": "Hyderabad",
+        "age": 29,
+        "gender": "female",
+        "height": 1.58,
+        "weight": 60,
+        "bmi": 24.03,
+        "verdict": "Normal"
+    },
+    "P010": {
+        "name": "Suresh Kumar",
+        "city": "Ahmedabad",
+        "age": 38,
+        "gender": "male",
+        "height": 1.68,
+        "weight": 70,
+        "bmi": 24.80,
+        "verdict": "Normal"
+    },
+    "P011": {
+        "name": "Kavita Joshi",
+        "city": "Guwahati",
+        "age": 26,
+        "gender": "female",
+        "height": 1.6,
+        "weight": 55,
+        "bmi": 21.48,
+        "verdict": "Normal"
+    },
+    "P012": {
+        "name": "Manish Patel",
+        "city": "Mumbai",
+        "age": 31,
+        "gender": "male",
+        "height": 1.72,
+        "weight": 78,
+        "bmi": 26.37,
+        "verdict": "Overweight"
+    },
+    "P013": {
+        "name": "Sonal Kapoor",
+        "city": "Pune",
+        "age": 24,
+        "gender": "female",
+        "height": 1.65,
+        "weight": 48,
+        "bmi": 17.63,
+        "verdict": "Underweight"
+    },
+    "P014": {
+        "name": "Rohit Sharma",
+        "city": "Mumbai",
+        "age": 36,
+        "gender": "male",
+        "height": 1.78,
+        "weight": 82,
+        "bmi": 25.90,
+        "verdict": "Normal"
+    },
+    "P015": {
+        "name": "Pooja Reddy",
+        "city": "Kolkata",
+        "age": 28,
+        "gender": "female",
+        "height": 1.58,
+        "weight": 68,
+        "bmi": 27.22,
+        "verdict": "Overweight"
+    },
+    "P016": {
+        "name": "Amitabh Bachchan",
+        "city": "Delhi",
+        "age": 78,
+        "gender": "male",
+        "height": 1.7,
+        "weight": 75,
+        "bmi": 25.95,
+        "verdict": "Normal"
     }
 }
